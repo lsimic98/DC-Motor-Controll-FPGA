@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -5.078
+TNS   : -136.309
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -1.278
+TNS   : -13.537
+
+Type  : Slow 1200mV 85C Model Setup 'RisingEdge:inst4|inst'
+Slack : -0.467
+TNS   : -3.106
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.068
+TNS   : -0.114
+
+Type  : Slow 1200mV 85C Model Hold 'RisingEdge:inst4|inst'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : 0.571
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -44.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RisingEdge:inst4|inst'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -4.371
+TNS   : -115.487
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -1.006
+TNS   : -10.182
+
+Type  : Slow 1200mV 0C Model Setup 'RisingEdge:inst4|inst'
+Slack : -0.327
+TNS   : -1.811
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.108
+TNS   : -0.179
+
+Type  : Slow 1200mV 0C Model Hold 'RisingEdge:inst4|inst'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : 0.512
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -44.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RisingEdge:inst4|inst'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -2.410
+TNS   : -59.073
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -0.293
+TNS   : -1.550
+
+Type  : Fast 1200mV 0C Model Setup 'RisingEdge:inst4|inst'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.145
+TNS   : -0.205
+
+Type  : Fast 1200mV 0C Model Hold 'RisingEdge:inst4|inst'
+Slack : 0.196
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -46.853
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_DIVIDER:sdasads|out_clk_next'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RisingEdge:inst4|inst'
+Slack : -1.000
+TNS   : -16.000
+
+------------------------------------------------------------
